@@ -3,7 +3,7 @@
 🌱 I’m currently learning HTML, CSS, JavaScript, and PHP  
 💡 I'm interested in frontend & backend technologies  
 💞️ I’m looking to collaborate on beginner-friendly web projects  
-📫 How to reach me: [your.email@example.com] or [Twitter/LinkedIn]  
+📫 How to reach me: [souroueric6@gmail.com] or [LinkedIn](https://www.linkedin.com/in/eric-sourou-7898b828b/)
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love turning music 🎶 and coffee ☕ into code!
 
