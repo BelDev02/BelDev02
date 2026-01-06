@@ -23,7 +23,7 @@ I believe AI is a powerful tool that helps humans work smarter and faster.
 - Web and software development projects  
 
 📫 How to reach me:
-- Email: souroueric6@gmail.com  
+- Email: belericsourou@gmail.com  
 - LinkedIn: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin  
 
 😄 Pronouns: He / Him  
