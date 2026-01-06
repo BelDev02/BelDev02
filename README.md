@@ -1,28 +1,29 @@
 ## Hi 👋 I'm SOUROU Bel Eric (@BelDev02)
 
 🎓 I am a computer science student passionate about technology and innovation.  
-🌍 I am especially interested in web development and artificial intelligence.
+🌍 I have a strong background in web development and software development.
 
-🌱 I’m currently learning:
+💻 My technical skills include:
 - HTML, CSS, JavaScript  
-- Python  
-- Web and software development frameworks  
+- Python, PHP  
+- Web and software development frameworks: Django REST, React  
+- Databases: PostgreSQL, MySQL  
 
-💡 My main interests are:
-- Full-stack web development  
+🤖 I am currently focusing on:
 - Artificial Intelligence  
-- AI building and AI training  
-- Applied machine learning  
+- Machine Learning  
+- AI model building and training  
+- Applying AI to real-world problems  
 
-🚀 I enjoy building practical projects and useful tools to solve real-world problems.  
-I believe AI is not here to replace humans, but to help them work better and faster.
+🚀 I enjoy building practical projects and useful tools for businesses and individuals.  
+I believe AI is a powerful tool that helps humans work smarter and faster.
 
-💞️ I am looking to collaborate on:
-- AI projects  
+💞️ I am open to collaborating on:
+- AI and machine learning projects  
 - Web and software development projects  
 
 📫 How to reach me:
-- Email: belericsourou@gmail.com  
+- Email: souroueric6@gmail.com  
 - LinkedIn: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin  
 
 😄 Pronouns: He / Him  
