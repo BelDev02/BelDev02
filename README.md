@@ -1,14 +1,29 @@
-- 👋 Hi, I’m @BelDev02  
-🌍 I’m passionate about web development  
-🌱 I’m currently learning HTML, CSS, JavaScript, and PHP  
-💡 I'm interested in frontend & backend technologies  
-💞️ I’m looking to collaborate on beginner-friendly web projects  
-📫 How to reach me: [souroueric6@gmail.com] or [LinkedIn](https://www.linkedin.com/in/eric-sourou-7898b828b/)
-😄 Pronouns: He/Him  
+## Hi 👋 I'm SOUROU Bel Eric (@BelDev02)
+
+🎓 I am a computer science student passionate about technology and innovation.  
+🌍 I am especially interested in web development and artificial intelligence.
+
+🌱 I’m currently learning:
+- HTML, CSS, JavaScript  
+- Python  
+- Web and software development frameworks  
+
+💡 My main interests are:
+- Full-stack web development  
+- Artificial Intelligence  
+- AI building and AI training  
+- Applied machine learning  
+
+🚀 I enjoy building practical projects and useful tools to solve real-world problems.  
+I believe AI is not here to replace humans, but to help them work better and faster.
+
+💞️ I am looking to collaborate on:
+- AI projects  
+- Web and software development projects  
+
+📫 How to reach me:
+- Email: belericsourou@gmail.com  
+- LinkedIn: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin  
+
+😄 Pronouns: He / Him  
 ⚡ Fun fact: I love turning music 🎶 and coffee ☕ into code!
-
-
-<!---
-BelDev02/BelDev02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
